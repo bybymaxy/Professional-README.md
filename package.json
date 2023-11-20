@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  }
+}
