@@ -1,5 +1,5 @@
-## Table of Contents
-- [Project name](#proffesional-README.md)
+# Table of Contents
+- [Project Name](#project-name)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -7,48 +7,45 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Tests](#tests)
-- [Questions](#quistions)
+- [Questions](#questions)
 - [Screenshots](#screenshots)
 
+## Project Name
+${proffesional-README.md}
 
-# Project Name: ${proffesional-README.md}
-
-
-## Description ${description}
+## Description
+${description}
 Automation of creating a README.md file
 
+## Installation
+${installation}
+Download git repository, ensure you have proper dependencies.
 
-## Installation ${installation}
-download git repository, ensure you have proper dependencies.
+## Usage
+${usage}
+To run the readme.md automator, do either `npm start` or `node index.js`.
 
+## Features
+${features}
+Automation of readme.md files
 
-## Usage ${usage}
-do either npm start or node index.js to run the readme.md automator
+## Contributing
+${contributing}
+Albert Branom, Xpert Learning Assistant
 
-
-## Features ${features}
-automation of readme.md files
-
-
-## Contributing ${contributing}
-albert branom, xpert learning assistant
-
-
-## License ${license}
+## License
 [Mit License](https://choosealicense.com/licenses/mit/#)
 
+## Tests
+${tests}
 
-## Tests ${tests}
-n/a
+## Questions
+- [bybymaxy](https://github.com/bybymaxy/Professional-README.md)
+- [send-email-to](mailto:bybymaxy@gmail.com)
+- [recording-of-working-application](https://drive.google.com/file/d/1vTXnVwBPc6asjbLqqDCkXtQlx3b4ZziL/view)
 
-
-## Questions ${questions}
-[bybymaxy](https://github.com/bybymaxy/Professional-README.md)
-[send-email-to](mailto:bybymaxy@gmail.com)
-[recording-of-working-application](https://drive.google.com/file/d/1vTXnVwBPc6asjbLqqDCkXtQlx3b4ZziL/view)
-
-
-## Screenshots ${screenshots}
+## Screenshots
+${screenshots}
 ![screenshot1](./assets/Screenshot%201.png)
 ![screenshot2](./assets/Screenshot%202.png)
 ![screenshot3](./assets/Screenshot%203.png)
